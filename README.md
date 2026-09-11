@@ -2,7 +2,7 @@
 
 Recreación front-end de la página de inicio corporativa de Lidl España, construida desde cero en un único archivo HTML autocontenido.
 
-**Demo:** https://TU-USUARIO.github.io/case-study-lidl-home-es/
+**Demo:** https://milesima.github.io/case-study-lidl-home-es/
 
 ---
 
@@ -47,7 +47,7 @@ Un solo archivo (`index.html`, ~3,3 MB). Sin build, sin `node_modules`, sin CDN:
 ## Uso local
 
 ```bash
-git clone https://github.com/TU-USUARIO/case-study-lidl-home-es.git
+git clone https://github.com/milesima/case-study-lidl-home-es.git
 cd case-study-lidl-home-es
 open index.html   # o doble clic en el archivo
 ```
