@@ -10,23 +10,9 @@ Recreación front-end de la página de inicio corporativa de Lidl España, const
 
 Ejercicio de recreación fiel de una landing corporativa real: maquetación, sistema tipográfico, paleta, componentes interactivos y comportamiento responsive completo.
 
-### Qué incluye
-
-- **Header** con navegación por pastillas y menús desplegables flotantes que no desplazan el contenido.
-- **Barra sticky** de anclas a secciones.
-- **Hero** corporativo con cifras destacadas en tiles.
-- **Carrusel** de 22 imágenes con vista central al 84 % y asomas laterales, navegación por puntos.
-- **Mapa mundial interactivo** de países con presencia, lista con banderas y contadores.
-- **Acordeón** de contenido por país (Sostenibilidad abierta por defecto).
-- **FAQs**, sección de empleo y footer completo.
-
 ### Responsive
 
 Fluido de 390 px a 1440 px+:
-
-- Tipografía escalada con `clamp()`.
-- Rejillas que reflujen en tablet y móvil.
-- Breakpoint principal a 900 px: la navegación pasa a menú hamburguesa con acordeones.
 
 ---
 
@@ -40,7 +26,6 @@ Fluido de 390 px a 1440 px+:
 | Assets | Imágenes y SVG embebidos en base64 |
 | Despliegue | GitHub Pages |
 
-Un solo archivo (`index.html`, ~3,3 MB). Sin build, sin `node_modules`, sin CDN: funciona offline abriéndolo en el navegador.
 
 ---
 
